@@ -1,0 +1,20 @@
+{
+  "name": "typescript-for-javascript-devlopers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taisei-ide-0123/typescript-for-javascript-devlopers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taisei-ide-0123/typescript-for-javascript-devlopers/issues"
+  },
+  "homepage": "https://github.com/taisei-ide-0123/typescript-for-javascript-devlopers#readme"
+}
