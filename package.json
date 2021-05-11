@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/taisei-ide-0123/typescript-for-javascript-devlopers#readme",
   "devDependencies": {
+    "ts-node": "^9.1.1",
     "typescript": "^3.7.5"
   }
 }
